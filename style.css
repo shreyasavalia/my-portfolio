@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #222;
+    background: #f8f8f8;
+}
+
+.header {
+    background: #111;
+    padding: 1rem 2rem;
+}
+
+.nav .logo {
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.menu {
+    list-style: none;
+    float: right;
+}
+
+.menu li {
+    display: inline;
+    margin-left: 1rem;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 4rem 1rem;
+    background: linear-gradient(135deg,#4b6cb7,#182848);
+    color: white;
+}
+
+.hero h1 span {
+    color: #f0db4f;
+}
+
+.btn {
+    background: #f0db4f;
+    padding: 0.8rem 1.4rem;
+    text-decoration: none;
+    font-weight: bold;
+    color: #111;
+    border-radius: 5px;
+}
+
+.projects-section {
+    padding: 2rem;
+    text-align: center;
+}
+
+.project-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 8px;
+    background: #fff;
+}
+
+.contact-section {
+    padding: 2rem;
+    text-align: center;
+}
+
+.footer {
+    background: #111;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
